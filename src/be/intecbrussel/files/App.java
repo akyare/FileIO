@@ -12,6 +12,7 @@ public class App {
     public static void main(String[] args) {
 
         Path destDir = Paths.get("C:/Data/folder1/");
+        Path destFile = destDir.resolve("testing.txt");
 
         try {
             Files.createDirectories(destDir);
