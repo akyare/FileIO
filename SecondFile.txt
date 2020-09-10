@@ -1,0 +1,1 @@
+This is also closed after the try with resources.
