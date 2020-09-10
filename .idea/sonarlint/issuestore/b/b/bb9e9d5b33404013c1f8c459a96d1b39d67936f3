@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”“î€8—ïĞ¹Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç²ğÿÿÿÿÿ8¦¯Ñ¹Ç.
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ç²ğÿÿÿÿÿ8åÎÓ¹Ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜½©ª8ÃÇÌ¹Ç.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ÇÁÊ¹Ç.

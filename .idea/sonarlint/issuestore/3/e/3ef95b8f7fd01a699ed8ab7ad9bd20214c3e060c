@@ -1,0 +1,17 @@
+
+O
+java:S28644"4Iterate over the "entrySet" instead of the "keySet".(ç¿èıÿÿÿÿ
+P
+java:S11419"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.io.FileFilter'.(ÔÅÑ—
+S
+java:S1128
+"=Remove this unused import 'java.nio.file.StandardCopyOption'.(×ÀòÔ
+P
+java:S1141A"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141V"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(´ğ‹‹
